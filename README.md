@@ -1,2 +1,2 @@
 # vg_account_confirm
-confirm
+5e328e7878f9cc977938ff134500afc4a05511a9440d73bc69f7b6d00c7410ed
